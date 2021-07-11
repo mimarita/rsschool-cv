@@ -1,0 +1,80 @@
+.background {
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    margin: 0;
+    color: #1a151a
+}
+A:visited {
+    color: #1a151a;  
+}
+A:active {
+    color: #1a151a;  
+}
+A {
+    color: #1a151a;  
+}
+.main-block {
+    margin: 15px auto;
+    background-color: rgb(238, 230, 238);
+    width: 800px;
+    padding: 50px 50px 50px 50px;
+
+}
+.clear-float {
+    width: 100%; 
+    height: 1px; 
+    clear: both;
+}
+.name-block {
+    width: 60%; 
+    float: left; 
+    margin: 0 0 15px; 
+    text-align: left;
+    line-height: 20px;
+}
+.photo-block {
+    width:30%; 
+    float:right; 
+    margin: 20px 0 15px; ; 
+    text-align:center;
+    padding: 10px;
+}
+
+.photo {
+    width: 150px;
+    border-radius: 50%;
+}
+.position {
+    color: #830df1;
+    font-weight: bold;
+    font-size: 150%;
+}
+.objective {
+    font-size: 110%;
+}
+.subtitle {
+    color: #830df1;
+}
+.list {
+    color: #830df1;
+}
+.text-list {
+    color: #1a151a;
+}
+h4 {
+    text-decoration: underline;
+}
+.footer {
+    text-align: center;
+}
+.logo {
+    width: 50px;
+}
+.url:visited {
+    color: #830df1;
+}
+.url:active {
+    color: #830df1;
+}
+.url {
+    color: #830df1;
+}
